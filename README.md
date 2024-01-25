@@ -13,7 +13,8 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
   pip install sentencepiece
   pip install tensorflow-gpu
   pip install torch torchvision torchaudio -f https://download.pytorch.org/whl/cu102/torch_stable.html
-
+  pip install streamlit
+  pip install PIL
 ```
 
 ## Installation
