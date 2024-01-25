@@ -35,3 +35,11 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
 ```bash
   streamlit run Sentiment_Analysis_app.py
 ```
+
+## Streamlit Images
+
+
+<img width="613" alt="Screenshot 2024-01-25 091804" src="https://github.com/sanjayravichander/Sentiment-Analysis/assets/86998084/7d9910ce-a3e9-4310-bbaf-4e38178458c0">
+
+
+<img width="613" alt="Screenshot 2024-01-25 091835" src="https://github.com/sanjayravichander/Sentiment-Analysis/assets/86998084/ad2c005d-9a7a-4446-bcf1-57fd0bd446f7">
